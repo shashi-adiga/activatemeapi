@@ -1,0 +1,8 @@
+{
+  "name": "activate me fb webhooks api",
+  "description": "facebook message bot app testing",
+  "repository": "https://github.com/shashi-adiga/activatemeapi.git",
+  "logo": "",
+  "keywords": ["node", "express", "static"],
+  "image": "shashi-adiga/activateme"
+}
